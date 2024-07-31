@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+cache
+docs
+temp
+ignition/deployments
+cache
+artifacts
+.env
